@@ -21,7 +21,7 @@ Les données proviennent de fichiers CSV officiels et contiennent :
 ## Contenu du dépôt
 
 - `AGL.png` : modèle physique réalisés avec l’AGL  
-- `scripts` : scripts SQL générés automatiquement par l’AGL et scripts manuels  
+- `scripts.sql` : scripts SQL générés automatiquement par l’AGL et scripts manuels  
 - `fichiers_csv/` : fichiers CSV utilisés pour peupler la base de données  
 
 ## Utilisation
