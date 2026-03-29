@@ -1,11 +1,11 @@
-# Travaux SQL
+# Bases de données
 
-Bienvenue dans mon dépôt GitHub dédié aux projets et exercices en SQL.  
+Bienvenue dans mon dépôt GitHub dédié aux projets en SQL.  
 Ici, je centralise tous mes travaux de bases de données réalisés dans le cadre de mon BUT Informatique.
 
 ## Contenu
 
-Chaque dossier correspond à un projet ou un exercice SQL.  
+Chaque dossier correspond à un projet SQL.  
 Vous y trouverez les scripts SQL et éventuellement des fichiers de données associés.
 
 ## Utilisation
