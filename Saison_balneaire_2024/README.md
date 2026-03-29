@@ -28,6 +28,7 @@ Les données proviennent de fichiers CSV officiels et contiennent :
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/abassekaderbhai-dev/SQL.git'''
+git clone https://github.com/abassekaderbhai-dev/SQL.git
+```
 2. Aller dans le dossier du projet `balnéaire` et exécuter les scripts SQL dans votre SGBD.
 3. Consulter les modèles AGL pour comprendre la structure de la base de données.
