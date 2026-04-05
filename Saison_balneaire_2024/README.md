@@ -16,19 +16,19 @@ Les données proviennent de fichiers CSV officiels et contiennent :
 - Créer et modéliser une base de données SQL avec un **AGL** (outil de modélisation)  
 - Générer automatiquement le script de création des tables à partir du modèle physique  
 - Peupler la base à partir des fichiers CSV officiels  
-- Comparer la modélisation manuelle et celle produite par l’AGL  
+- Comparer la modélisation manuelle et celle produite par l'AGL  
 
 ## Contenu du dépôt
 
-- `AGL.png` : modèle physique réalisés avec l’AGL  
-- `scripts.sql` : scripts SQL générés automatiquement par l’AGL et scripts manuels  
+- `AGL.png` : modèle physique réalisé avec l'AGL  
+- `scripts.sql` : scripts SQL générés automatiquement par l'AGL et scripts manuels  
 - `fichiers_csv/` : fichiers CSV utilisés pour peupler la base de données  
 
 ## Utilisation
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/abassekaderbhai-dev/SQL.git
+git clone https://github.com/abassekaderbhai-dev/Bases-de-donnees.git
 ```
 2. Aller dans le dossier du projet `balnéaire` et exécuter les scripts SQL dans votre SGBD.
 3. Consulter les modèles AGL pour comprendre la structure de la base de données.
