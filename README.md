@@ -13,4 +13,4 @@ Vous y trouverez les scripts SQL et éventuellement des fichiers de données ass
 Pour utiliser un projet :  
 1. Cloner le dépôt :  
 ```bash
-git clone https://github.com/abassekaderbhai-dev/SQL.git
+https://github.com/abassekaderbhai-dev/Bases-de-donnees.git
