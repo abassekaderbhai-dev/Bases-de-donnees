@@ -2,7 +2,7 @@
 
 ## Contexte
 
-Ce projet s'inscrit dans le cadre de la SAÉ « Bases de données et langage SQL ».  
+Ce projet a été développé dans le cadre de l'enseignement "Bases de données et langage SQL".
 L'objectif est de suivre la qualité des eaux de baignade en France durant la saison 2024, conformément à la directive européenne 2006/7/CE.  
 
 Les données proviennent de fichiers CSV officiels et contiennent :
